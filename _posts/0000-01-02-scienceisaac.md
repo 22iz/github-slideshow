@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My first commit try for Github learning.
+I don't know how to use Markdown but I will learn it!
 Use the left arrow to go back!
 
 
